@@ -29,6 +29,6 @@ Two supporting ontology files are sourced separately:
 ## Repository Structure
 * `data/` : Local folder for the downloaded tsv and obo files.
 * `notebook.ipynb` : The Jupyter Notebook containing all data processing and visualizations.
-*  `outputs/` : Excel files and appendices generated from the analysis.
+*  `outputs/` :  Appendices generated from the analysis (Excel files).
 * `.gitignore` : Excludes local temporary files and raw data.
 * `LICENSE` : MIT License.
