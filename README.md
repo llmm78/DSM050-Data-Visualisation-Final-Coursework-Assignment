@@ -3,11 +3,12 @@ Repository for the DSM050 Data Visualisation final coursework
 
 This project performs an analysis of the celiac disease *ontological space*, as defined by the disease-disease network (taxonomic space) 
 and disease-function network both derived from the Stanford Biomedical Network Dataset Collection. 
-The analysis is conducted in Python and is based on the use of NetworkX
+The analysis is conducted in Python and is based on the use of NetworkX.
 
 
 ## Data Access
-The **datasets** used in this project are publicly available and are distributed under the BSD license
+The **datasets** used in this project are publicly available and are distributed under the BSD license.
+
 Marinka Zitnik Rok Sosič, Sagar Maheshwari and J. Leskovec, “BioSNAP Datasets: Stanford Biomedical Network Dataset Collection.” Aug. 2018. [Online]. Available: http://snap.stanford.edu/biodata
 
 
