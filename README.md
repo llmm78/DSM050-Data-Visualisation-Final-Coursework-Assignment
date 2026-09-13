@@ -18,7 +18,7 @@ Marinka Zitnik Rok Sosič, Sagar Maheshwari and J. Leskovec, “BioSNAP Datasets
 3. `D-MeshMiner_miner-disease.tsv.gz`
 4. `doid.obo`
 5. `DF-Miner_miner-disease-function.tsv.gz`
-6.  `go-basic.obo`
+6.  go-basic.obo` — too large for GitHub (>25MB); download directly from [Gene Ontology](http://purl.obolibrary.org/obo/go/go-basic.obo)
 
 ---
 
