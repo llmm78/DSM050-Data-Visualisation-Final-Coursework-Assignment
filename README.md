@@ -11,7 +11,10 @@ The **datasets** used in this project are publicly available and are distributed
 
 Marinka Zitnik Rok Sosič, Sagar Maheshwari and J. Leskovec, “BioSNAP Datasets: Stanford Biomedical Network Dataset Collection.” Aug. 2018. [Online]. Available: http://snap.stanford.edu/biodata
 
+Two supporting ontology files are sourced separately:
 
+- `doid.obo` — Human Disease Ontology, licensed under CC0 1.0 (public domain). Available: https://disease-ontology.org
+- `go-basic.obo` — Gene Ontology, licensed under CC BY 4.0 (attribution required). Available: http://purl.obolibrary.org/obo/go/go-basic.obo
 ### Required Files
 
 1. `DD-Miner_miner-disease-disease.tsv.gz`
